@@ -24,7 +24,7 @@ This project implements a cross-chain bridge that allows users to transfer token
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/marksantiago02/Arbitrum-Smart-Bridge-with-ARK.git
+   git clone https://github.com/<your-repo-url>/Arbitrum-Smart-Bridge-with-ARK.git
    cd Arbitrum-Smart-Bridge-with-ARK
    ```
 
